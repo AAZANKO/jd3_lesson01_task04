@@ -18,4 +18,5 @@ public class SortedMassiveList {
         Collections.sort(list1);
         return list1;
     }
+
 }

@@ -25,6 +25,7 @@ public class SortedDuoListTest {
         list2.add(6);
         list2.add(8);
 
+        // Два списка
         list1 = sortedDuoList.getList(list1, list2);
 
         for (Integer i : list1) {

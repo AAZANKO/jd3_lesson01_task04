@@ -37,7 +37,7 @@ public class SortedMassiveListTest {
         list4.add(17);
         list4.add(19);
 
-
+        // пепременное число списков
         list1 = sortedMassiveList.getListMass(list1, list2, list3, list4);
 
         for (Integer i : list1) {
